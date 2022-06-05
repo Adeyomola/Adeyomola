@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adeyomola
-- 👀 I’m interested in DevOps, AI, and Machine Learning 
+- 👀 I’m interested in Cloud, AI, and Machine Learning 
 - 🌱 I’m currently learning Artificial Neural Networks using Tensorflow and Keras
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
