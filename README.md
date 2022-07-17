@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adeyomola
-- 👀 I’m interested in Cloud, AI, and Machine Learning 
-- 🌱 I’m currently learning Artificial Neural Networks using Tensorflow and Keras
+- 👀 I’m interested in Cloud, AI, and Machine Learning. However, my current focus is one Front-End Development.
+- 🌱 I’m currently learning React and Tailwind
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
