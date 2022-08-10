@@ -8,7 +8,7 @@ I create technical content on my [Blog](https://medium.com/@adeyomolaDev). Curre
 **Here's a quick summary about me**:
 
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Cloud Engineering at AltSchool Africa.
+- 🌱 I’m currently learning Cloud Engineering. But I do some front-end learning in my free time.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, DevOps Engineer, or Site Reliability Engineer. (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing adeyomolakazeem@gmail.com.
