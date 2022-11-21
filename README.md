@@ -15,5 +15,5 @@ I create technical content on my [Blog](https://adeyomoladev.medium.com/).
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeyomola&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Adeyomola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeyomola&langs_count=8&layout=compact&count_private=true&theme=dark&hide_border=true" alt="Adeyomola's GitHub stats" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeyomola&show_icons=true&count_private=true&hide_border=true" alt="Adeyomola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeyomola&langs_count=8&layout=compact&count_private=true&hide_border=true" alt="Adeyomola's GitHub stats" />
 | ------------- | ------------- |
