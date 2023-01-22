@@ -11,7 +11,7 @@ I create technical content on my [Blog](https://adeyomoladev.medium.com/).
 - 🌱 I’m currently learning Cloud Engineering. But I do some front-end learning in my free time.
 - 😊 I’m looking to contribute to open source projects. I would also love to be a part of hackathons.
 - 💼 Job interests: DevOps Engineering or Site Reliability Engineering. (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing adeyomolakazeem@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing adeyomola@adeyomola.me.
 
 ---
 
