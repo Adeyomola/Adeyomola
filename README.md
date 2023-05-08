@@ -10,7 +10,7 @@ My name is Adeyomola Ismail Kazeem. I'm a DevOps Engineer driven by the will to 
 - 🌱 I’m currently learning Cloud Engineering. But I do some front-end learning in my free time.
 - 😊 I’m looking to contribute to open source projects. I would also love to be a part of hackathons.
 - 💼 Job interests: DevOps Engineering Roles.
-- 📫 You can [view my resume](#) and contact me by emailing adeyomola@adeyomola.me.
+- 📫 You can [view my resume](https://bit.ly/adeyomolaResume) and contact me by emailing adeyomola@adeyomola.me.
 
 ---
 
