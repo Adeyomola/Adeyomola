@@ -14,6 +14,6 @@ My name is Adeyomola Ismail Kazeem. I'm a DevOps Engineer driven by the will to 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeyomola&show_icons=true&count_private=true&hide_border=true" alt="Adeyomola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeyomola&langs_count=8&layout=compact&count_private=true&hide_border=true&langs_coun" alt="Adeyomola's GitHub stats" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeyomola&show_icons=true&count_private=true&hide_border=true" alt="Adeyomola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeyomola&langs_count=10&layout=compact&count_private=true&hide_border=true" alt="Adeyomola's GitHub stats" />
 | ------------- | ------------- |
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adeyomola&repo=Adeyomola)](https://github.com/adeyomola/Adeyomola)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adeyomola&repo=capstone-9)](https://github.com/adeyomola/capstone-9)
