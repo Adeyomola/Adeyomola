@@ -6,8 +6,7 @@ My name is Adeyomola Ismail Kazeem. I'm a DevOps Engineer driven by the will to 
 
 **Here's a quick summary about me**:
 
-- 💡 Some fun fact: I wrote The Octet Rule.
-[//]: # (I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.)
+//- 💡 Some fun fact:
 - 🌱 I’m currently learning Cloud Engineering. But I do some front-end learning in my free time.
 - 😊 I’m looking to contribute to open source projects. I would also love to be a part of hackathons.
 - 💼 Job interests: DevOps Engineering Roles.
