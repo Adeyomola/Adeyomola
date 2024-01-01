@@ -1,5 +1,5 @@
 # Hello there; Welcome 👋🏾
-[![Website Badge](https://img.shields.io/badge/-adeyomola.me-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://adeyomola.me)](https://adeyomola.me) [![Profile Visits](https://komarev.com/ghpvc/?username=adeyomola&label=Profile%20views&color=0e75b6&style=flat)]\
+[![Website Badge](https://img.shields.io/badge/-adeyomola.me-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://adeyomola.me)](https://adeyomola.me) [![Profile Visits](https://komarev.com/ghpvc/?username=adeyomola&label=Profile%20Visits&color=0e75b6&style=flat)]\
 My name is Adeyomola Kazeem. I'm a Cloud / DevOps Engineer with a proven track record of streamlining development processes, ensuring infrastructural integrity, and implementing automation for efficient and rapid software delivery. Read some of my technical contents on my [Blog](https://adeyomoladev.medium.com/) and on [Baeldung](https://www.baeldung.com/linux/author/adeyomolakazeem).
 - 📫 You can contact me by emailing hello@adeyomola.me.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeyomola&langs_count=10&layout=donut&count_private=true&hide_border=true&theme=transparent" alt="Adeyomola's GitHub stats" />
